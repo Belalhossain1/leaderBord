@@ -29,6 +29,9 @@ nav a{
    
 
 }
+a{
+    text-decoration: none;
+}
 nav a:hover{
     background-color: white;
     color: #31cc45;
@@ -96,6 +99,15 @@ h2:hover{
     justify-content: center;
     align-items: center;
     
+}
+.kawsar{
+    margin-left: 25px;
+}
+.riyad{
+    margin-left: 35px;
+}
+.mh{
+    margin-right: 19px;
 }
 .top-players span{
     margin-left: 15px;
